@@ -4,7 +4,7 @@
   "description": "This is a blog me created during Abhi the Coder Tutorial👏",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "Abhi",
   "license": "ISC",
