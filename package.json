@@ -1,0 +1,14 @@
+{
+  "name": "blog-express",
+  "version": "1.0.0",
+  "description": "This is a blog me created during Abhi the Coder Tutorial👏",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhi",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^8.0.1"
+  }
+}
